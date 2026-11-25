@@ -1,4 +1,4 @@
-name: Wellness Tourism ML CI/CD Pipeline
+name: Tourism ML CI/CD Pipeline
 
 on:
   push:
