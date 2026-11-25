@@ -1,4 +1,4 @@
-name: tourism_package_prediction ML CI/CD Pipeline
+name: Wellness Tourism ML CI/CD Pipeline
 
 on:
   push:
